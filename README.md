@@ -17,8 +17,8 @@ My vision is to **empower people through technology**, especially in Pakistan, b
 - **Data Visualization** to communicate insights effectively
 
 ## 🛠️ Tech Stack:
-- **Languages:** Python, HTML, CSS, JavaScript
-- **Libraries/Frameworks:** Pygame, Matplotlib, Django (soon!)
+- **Languages:** Python, HTML, CSS, C++
+- **Libraries/Frameworks:** Pygame, Matplotlib, Django
 - **Tools:** Git, GitHub, Visual Studio Code
 - **Interests:** Machine Learning, AI, Game Development, Open-Source Collaboration
 
