@@ -10,7 +10,7 @@ I'm a **passionate programmer and technology enthusiast** currently pursuing a d
 - 📊 Recently completed the basics of **Data Visualization** in Python and diving deeper into visualizing data to extract valuable insights.
 
 ## 🚀 Goals:
-My vision is to **empower people through technology**, especially in Pakistan, by solving pressing issues like poverty and helping the world progress through innovation. In the future, I aim to combine my skills in **programming** and **networking** to create impactful solutions for the community.
+My vision is to **empower people through technology**, by solving pressing issues like poverty and helping the world progress through innovation. In the future, I aim to combine my skills in **programming** and **networking** to create impactful solutions for the community.
 
 ## 🌱 Currently Learning:
 - Advanced topics in **Artificial Intelligence** and **Deep Learning**
