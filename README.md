@@ -5,9 +5,9 @@ I'm a **passionate programmer and technology enthusiast** currently pursuing a d
 ## 💡 What I Do:
 - 🌟 **Class Representative** at GCUF, guiding and supporting my peers in their programming journeys.
 - 🎮 Developed a game called **Alien Invasion** using **Python** and **Pygame**, exploring the fundamentals of game development.
-👉 https://github.com/AhmadRandhawaOfficial/Alien-Invasion-Game
+  👉 https://github.com/AhmadRandhawaOfficial/Alien-Invasion-Game
 - 📊 Worked on **Data Visualization** projects to uncover insights from data, using Python libraries like **Matplotlib** and **pygal**. 
-👉 https://github.com/AhmadRandhawaOfficial/Data-Visualization
+  👉 https://github.com/AhmadRandhawaOfficial/Data-Visualization
 - 🌐 Recently started learning **Django**, diving into web development to create scalable and impactful web applications.
 
 ## 🚀 Goals:
