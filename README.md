@@ -1,27 +1,28 @@
 # Hi, I'm Ahmad Hussain 👋
 
-I'm a **passionate programmer and technology enthusiast** currently pursuing a degree in **Information Technology** at **Government College University Faisalabad (GCUF)**. My primary focus is on **Machine Learning, Artificial Intelligence, and Deep Learning**, and I love exploring new technologies that can create real-world impact.
+I'm a **passionate programmer and technology enthusiast** currently pursuing a degree in **Information Technology** at **Government College University Faisalabad (GCUF)**. I’m deeply interested in **Artificial Intelligence (AI)** and always curious about how technology can solve real-world problems.
 
 ## 💡 What I Do:
-- 🌟 **Class Representative** at GCUF, leading by example and helping fellow students on their programming journeys.
-- 🎮 Working on exciting projects like **Alien Invasion**, where I’m honing my skills in **Python** and **Pygame** for game development.
-- 🤖 Actively exploring **AI** and **ML** to solve complex problems and bring innovative solutions to life.
-- 🖥️ Eager to collaborate on **open-source** projects, especially in **machine learning** and **game development**, to learn and contribute to the community.
-- 📊 Recently completed the basics of **Data Visualization** in Python and diving deeper into visualizing data to extract valuable insights.
+- 🌟 **Class Representative** at GCUF, guiding and supporting my peers in their programming journeys.
+- 🎮 Developed a game called **Alien Invasion** using **Python** and **Pygame**, exploring the fundamentals of game development.
+👉 https://github.com/AhmadRandhawaOfficial/Alien-Invasion-Game
+- 📊 Worked on **Data Visualization** projects to uncover insights from data, using Python libraries like **Matplotlib** and **pygal**. 
+👉 https://github.com/AhmadRandhawaOfficial/Data-Visualization
+- 🌐 Recently started learning **Django**, diving into web development to create scalable and impactful web applications.
 
 ## 🚀 Goals:
-My vision is to **empower people through technology**, by solving pressing issues like poverty and helping the world progress through innovation. In the future, I aim to combine my skills in **programming** and **networking** to create impactful solutions for the community.
+My mission is to **leverage technology to make the world a better place** by addressing challenges like poverty and empowering communities through innovation. By combining my skills in **AI**, **web development**, and **data science**, I aim to create meaningful solutions for society.
 
 ## 🌱 Currently Learning:
-- Advanced topics in **Artificial Intelligence** and **Deep Learning**
-- Building scalable web applications with **Django**
-- **Data Visualization** techniques and tools to communicate insights effectively
+- Deepening my understanding of **Artificial Intelligence** and **Machine Learning**
+- Exploring **Django** for building dynamic web applications
+- Improving my skills in **Data Visualization** to better communicate insights
 
 ## 🛠️ Tech Stack:
-- **Languages:** Python, HTML, CSS, C++
-- **Libraries/Frameworks:** Pygame, Matplotlib, Django, Seaborn
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Interests:** Machine Learning, AI, Game Development, Data Visualization, Open-Source Collaboration
+- **Languages:** Python, C++, HTML, CSS
+- **Libraries/Frameworks:** Pygame, Matplotlib, pygal, Django
+- **Tools:** Git, GitHub, PyCharm, Visual Studio Code
+- **Interests:** AI, Game Development, Data Visualization, Web Development, Open-Source Collaboration
 
 ## 🤝 Let's Connect!
-If you’re interested in **collaborating** on a project or just want to chat about technology, feel free to reach out. I’m always excited to learn from others and share my knowledge with the community.
+If you share an interest in **AI**, **web development**, or **game development**, let’s collaborate! Feel free to reach out — I love learning from others and sharing knowledge to grow together.
