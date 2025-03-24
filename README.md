@@ -28,7 +28,7 @@
 
 ## Featured Projects 🧛
 
-### Tweeto - Social Microblogging Platform <img src="https://cdn-icons-png.flaticon.com/512/3347/3347380.png" width="30" alt="Peace Icon"/> 
+### Twitto - Social Microblogging Platform <img src="https://cdn-icons-png.flaticon.com/512/3347/3347380.png" width="30" alt="Peace Icon"/> 
 **Django · Bootstrap · User Auth**  
 A Twitter-style platform enabling secure content sharing with image support  
 ✅ CRUD Operations · 🔒 JWT Authentication · 🌓 Dark Mode UI · 📈 Activity Tracking  
