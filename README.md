@@ -26,7 +26,7 @@
 
 ---
 
-## Featured Projects
+## Featured Projects 🧛
 
 ### Tweeto - Social Microblogging Platform <img src="https://cdn-icons-png.flaticon.com/512/3347/3347380.png" width="30" alt="Peace Icon"/> 
 **Django · Bootstrap · User Auth**  
@@ -59,9 +59,7 @@ Insight generation platform transforming raw GitHub data into actionable visuali
 ---
 
 # My Journey Roadmap
-## 🌟 Shaping the Future
-
-**Immediate Focus**  
+## Immediate Focus  
 - Mastering Full-Stack Development
 - Seeking part-time developer roles to fund AI/ML research
 - Land project-based dev work to finance learning resources  
