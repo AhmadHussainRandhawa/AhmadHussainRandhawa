@@ -35,7 +35,7 @@ A Twitter-style platform enabling secure content sharing with image support
 
 [<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Repository](https://github.com/AhmadHussainRandhawa/Twitto) · 
 [<img src="https://img.icons8.com/ios-filled/30/FFFFFF/monitor.png" alt="Live Demo"/> Live Demo](https://ahmadhussain.pythonanywhere.com/twitto/) · 
-[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/video.png" alt="Demo"/> Video Walkthrough](https://www.linkedin.com/posts/ahmad-hussain-randhawa_python-gamedev-pygame-activity-7293164755584716800-pcqS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/video.png" alt="Demo"/> Video Walkthrough](https://www.linkedin.com/posts/ahmad-hussain-randhawa_twitter-is-banned-in-pakistan-no-worries-activity-7305853963977805824-sVpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
 
 ---
 
@@ -44,7 +44,7 @@ A Twitter-style platform enabling secure content sharing with image support
 Classic space defense game with progressive difficulty and score tracking  
 🎮 Responsive Controls · 📊 Score System · ⚡ Performance Optimization · 🕹️ 2D Graphics  
 
-[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Codebase](https://www.linkedin.com/posts/ahmad-hussain-randhawa_twitter-is-banned-in-pakistan-no-worries-activity-7305853963977805824-sVpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Codebase](https://github.com/AhmadHussainRandhawa/Alien-Invasion-Game)
 [<img src="https://img.icons8.com/ios-filled/30/FFFFFF/controller.png" alt="Play"/> Gameplay Video](https://www.linkedin.com/posts/ahmad-hussain-randhawa_python-gamedev-pygame-activity-7293164755584716800-pcqS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw) 
 
 ---
