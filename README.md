@@ -1,27 +1,55 @@
-# Code, Creativity & Chaos – My Playground!
+# I'm Ahmad Hussain  
+*on a mission to work for the well being of this world—leveraging technology to solve real world problems by building smart solutions with AI.*
 
-Hey, I’m **Ahmad Hussain**, a tech enthusiast on a mission to **push boundaries**, **break barriers**, and **build awesome things**. I’m currently diving deep into **Django** & **backend development**, focusing on not just writing code but understanding the science behind it—because great developers don't just follow tutorials, they **engineer solutions**.
+---
 
-## 👨‍💻 What I Do:
-- Building web apps that make users go, “Damn, that’s smooth!”
-- Experimenting with creative features like **🔥 Auto-Roast Mode** & **🎭 Anonymous Tweet Mode**.
-- Exploring performance, scalability, and architecture—because I’m aiming for the **top 1% of developers**.
-- **Game Development**? Yup, created an **Alien Invasion** game with **Pygame**.
-- **Data Visualization**? Done that too, worked with **Matplotlib** & **GitHub APIs** to turn raw data into insights 📊.
-- **Class Representative** at GCUF, guiding and supporting my peers in their programming journeys.
+## 🛠 Technical Arsenal
 
-## What Drives Me:
-I’m on a mission to contribute to the progress of my people and the world—**leveraging technology to solve real problems** and **make an impact at a global level**.
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
 
-## My Philosophy:
-- **🔥 “Never settle for surface-level understanding.”**
-- **🔥 “Break things, fix things, learn things—repeat.”**
-- **🔥 “Great software isn’t just coded, it’s crafted.”**
+**Frameworks & Tools**  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-## Tech Stack:
-- **Languages:** Python, C++, HTML, CSS
-- **Libraries/Frameworks:** Pygame, Matplotlib, pygal, Django
-- **Tools:** Git, GitHub, PyCharm, Visual Studio Code
-- **Interests:** AI, Game Development, Data Visualization, Web Development, Open-Source Collaboration
+---
 
-Always up for discussions on **Django**, **software architecture**, **AI**, and **tech innovation**. **Let’s connect** and build something legendary!
+## Featured Projects
+
+### Tweeto - Social Microblogging Platform <img src="https://cdn-icons-png.flaticon.com/512/3347/3347380.png" width="30" alt="Peace Icon"/> 
+**Django · Bootstrap · User Auth**  
+A Twitter-style platform enabling secure content sharing with image support  
+✅ CRUD Operations · 🔒 JWT Authentication · 🌓 Dark Mode UI · 📈 Activity Tracking  
+
+[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Repository](https://github.com/AhmadHussainRandhawa/Twitto) · 
+[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/monitor.png" alt="Live Demo"/> Live Demo](https://ahmadhussain.pythonanywhere.com/twitto/) · 
+[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/video.png" alt="Demo"/> Video Walkthrough](https://www.linkedin.com/posts/ahmad-hussain-randhawa_python-gamedev-pygame-activity-7293164755584716800-pcqS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+
+---
+
+### Alien Invasion - Arcade Shooter
+**Pygame · OOP · Game Architecture**  
+Classic space defense game with progressive difficulty and score tracking  
+🎮 Responsive Controls · 📊 Score System · ⚡ Performance Optimization · 🕹️ 2D Graphics  
+
+[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Codebase](https://www.linkedin.com/posts/ahmad-hussain-randhawa_twitter-is-banned-in-pakistan-no-worries-activity-7305853963977805824-sVpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/controller.png" alt="Play"/> Gameplay Video](https://www.linkedin.com/posts/ahmad-hussain-randhawa_python-gamedev-pygame-activity-7293164755584716800-pcqS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw) · 
+
+---
+
+### 📊 GitHub Analytics Engine
+**Matplotlib · REST API · Data Pipelines**  
+Insight generation platform transforming raw GitHub data into actionable visualizations  
+📈 Interactive Dashboards · 🔄 Real-time Sync · 📦 Modular Architecture · 📌 Team Analytics  
+
+[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Project Code](https://github.com/AhmadHussainRandhawa/Data-Visualization)
+
+---
