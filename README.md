@@ -86,7 +86,7 @@ Insight generation platform transforming raw GitHub data into actionable visuali
 
 ---
 
-## Let's Connect 🧛 
+# Let's Connect 🧛 
 [<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
 [<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/> GitHub Portfolio](https://github.com/AhmadHussainRandhawa)   
 [<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  Daily Updates](https://www.linkedin.com/in/ahmad-hussain-randhawa/) 
