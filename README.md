@@ -67,9 +67,6 @@ Insight generation platform transforming raw GitHub data into actionable visuali
 - Land project-based dev work to finance learning resources  
 - Nurturing 2K+ LinkedIn community with weekly tech updates  
 
-**Daily Grind Includes**  
-4 hrs Tech | 2 hrs study (university) | 1 hr community engagement  
-
 ---
 
 ## 🌍 Core Mission Statement  
