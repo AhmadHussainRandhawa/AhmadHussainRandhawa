@@ -5,12 +5,7 @@
 ### Backend Engineer · Systems & Networking
 
 **Understanding systems beneath abstractions. Building them to understand them.**
-
-<br>
-
-`UNDERSTAND`   →   `BUILD`   →   `MEASURE`
-
-<br>
+<br><br>  
 
 <a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product">
 <img src="https://img.shields.io/badge/FOCUS-NETWORKING-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Current focus: Networking">
