@@ -5,7 +5,8 @@
 ### Backend Engineer · Systems & Networking
 
 **Understanding systems beneath abstractions. Building them to understand them.**
-<br><br>  
+
+<br><br>
 
 <a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product">
 <img src="https://img.shields.io/badge/FOCUS-NETWORKING-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Current focus: Networking">
@@ -15,11 +16,25 @@
 <img src="https://img.shields.io/badge/NEXT-DATABASE%20SYSTEMS-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Next: Database Systems">
 </a>
 
+<br><br>
+
+<a href="#technical-arsenal">Arsenal</a>
+·
+<a href="#current-vector">Vector</a>
+·
+<a href="#selected-engineering">Work</a>
+·
+<a href="#systems-deep-dive">Deep Dive</a>
+·
+<a href="#how-the-pieces-connect">Map</a>
+·
+<a href="#what-im-building-toward">Direction</a>
+
 </div>
 
 ---
 
-## ⚙️ Technical Arsenal
+<h2 id="technical-arsenal">⚙️ Technical Arsenal</h2>
 
 <table>
 <tr>
@@ -78,7 +93,7 @@
 
 ---
 
-## 🧭 Current Vector
+<h2 id="current-vector">🧭 Current Vector</h2>
 
 <table>
 <tr>
@@ -120,7 +135,7 @@ Networking  →  Databases  →  System Design  →  Distributed Systems  →  I
 
 ---
 
-# ⚛️ Selected Engineering
+<h1 id="selected-engineering">⚛️ Selected Engineering</h1>
 
 <table>
 <tr>
@@ -305,7 +320,7 @@ The SMTP client is implemented directly over TCP in Go without `net/smtp` or a m
 
 ---
 
-# 🕸️ Systems Deep Dive
+<h1 id="systems-deep-dive">🕸️ Systems Deep Dive</h1>
 
 <table>
 <tr>
@@ -363,7 +378,7 @@ It represents the **study → understand → internalize** side of the same engi
 
 ---
 
-# 🗺️ How the Pieces Connect
+<h1 id="how-the-pieces-connect">🗺️ How the Pieces Connect</h1>
 
 ```text id="1w0c9n"
                          SOFTWARE SYSTEMS
@@ -411,7 +426,7 @@ A Python/Pygame arcade shooter exploring:
 
 ---
 
-# 🛠️ What I'm Building Toward
+<h1 id="what-im-building-toward">🛠️ What I'm Building Toward</h1>
 
 The immediate goal is deeper capability across the backend and systems stack:
 
