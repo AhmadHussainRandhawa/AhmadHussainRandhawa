@@ -1,96 +1,466 @@
-# I'm Ahmad Hussain  
-*on a mission to work for the well being of this world—leveraging technology to solve real world problems by building smart solutions with AI.*
+<div align="center">
+
+# Ahmad Hussain Randhawa
+
+### Backend Engineer · Systems & Networking
+
+**Understanding systems beneath abstractions. Building them to understand them.**
+
+<br>
+
+`UNDERSTAND`   →   `BUILD`   →   `MEASURE`
+
+<br>
+
+<a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product">
+<img src="https://img.shields.io/badge/FOCUS-NETWORKING-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Current focus: Networking">
+</a>
+&nbsp;
+<a href="#current-vector">
+<img src="https://img.shields.io/badge/NEXT-DATABASE%20SYSTEMS-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Next: Database Systems">
+</a>
+
+</div>
 
 ---
 
-## 🛠 Technical Arsenal
+## ⚙️ Technical Arsenal
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+### Languages
 
-**Frameworks & Libraries**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Pygame](https://img.shields.io/badge/-Pygame-4B8BBE?logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
+<img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="SQL">
 
----
+</td>
 
-## Featured Projects 🧛
+<td valign="top" width="33%">
 
-### Twitto - Social Microblogging Platform <img src="https://cdn-icons-png.flaticon.com/512/3347/3347380.png" width="30" alt="Peace Icon"/> 
-**Django · Bootstrap · User Auth**  
-A Twitter-style platform enabling secure content sharing with image support  
-✅ CRUD Operations · 🔒 JWT Authentication · 🌓 Dark Mode UI · 📈 Activity Tracking  
+### Backend & Data
 
-[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Repository](https://github.com/AhmadHussainRandhawa/Twitto) · 
-[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/monitor.png" alt="Live Demo"/> Live Demo](https://ahmadhussain.pythonanywhere.com/twitto/) · 
-[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/video.png" alt="Demo"/> Video Walkthrough](https://www.linkedin.com/posts/ahmad-hussain-randhawa_twitter-is-banned-in-pakistan-no-worries-activity-7305853963977805824-sVpI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw)
+<img src="https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=44B78B" alt="Django">
+<img src="https://img.shields.io/badge/REST%20APIs-18181B?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs">
+<img src="https://img.shields.io/badge/Databases-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Databases">
+<img src="https://img.shields.io/badge/System%20Design-18181B?style=flat-square&logo=diagramsdotnet&logoColor=F08705" alt="System Design">
 
----
+</td>
 
-### Alien Invasion - Arcade Shooter
-**Pygame · OOP · Game Architecture**  
-Classic space defense game with progressive difficulty and score tracking  
-🎮 Responsive Controls · 📊 Score System · ⚡ Performance Optimization · 🕹️ 2D Graphics  
+<td valign="top" width="33%">
 
-[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Codebase](https://github.com/AhmadHussainRandhawa/Alien-Invasion-Game)
-[<img src="https://img.icons8.com/ios-filled/30/FFFFFF/controller.png" alt="Play"/> Gameplay Video](https://www.linkedin.com/posts/ahmad-hussain-randhawa_python-gamedev-pygame-activity-7293164755584716800-pcqS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFK_lyIBQ2ZNZsDPfp6CJVVTPrDpzO6jKTw) 
+### Systems & Infrastructure
 
----
+<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/Networking-18181B?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Networking">
+<img src="https://img.shields.io/badge/Distributed%20Systems-18181B?style=flat-square&logo=apachekafka&logoColor=9B59B6" alt="Distributed Systems">
+<img src="https://img.shields.io/badge/Operating%20Systems-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Operating Systems">
 
-### GitHub Analytics Engine
-**Matplotlib · REST API · Data Pipelines**  
-Insight generation platform transforming raw GitHub data into actionable visualizations  
-📈 Interactive Dashboards · 🔄 Real-time Sync · 📦 Modular Architecture · 📌 Team Analytics  
+</td>
+</tr>
+</table>
 
-[<img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" alt="GitHub"/> Project Code](https://github.com/AhmadHussainRandhawa/Data-Visualization)
+<strong>Tools & additional technologies</strong>
 
----
+<p>
 
-# My Journey Roadmap
-## Immediate Focus  
-- Mastering Full-Stack Development
-- Seeking part-time developer roles to fund AI/ML research
-- Land project-based dev work to finance learning resources  
-- Nurturing 2K+ LinkedIn community with weekly tech updates  
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
+<img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
+<img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
+<img src="https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark">
+<img src="https://img.shields.io/badge/Pygame-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Pygame">
+<img src="https://img.shields.io/badge/Matplotlib-18181B?style=flat-square&logo=python&logoColor=11557C" alt="Matplotlib">
+<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+<img src="https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+
+</p>
 
 ---
 
-## 🌍 Core Mission Statement  
-*"Bridging practical development skills with AI innovation to create tools that serve humanity - not replace it. Every line of code I write is an investment in understanding how technology can responsibly solve real-world challenges."*
+## 🧭 Current Vector
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### NOW
+
+🌐
+
+**Computer Networking**
+
+</td>
+
+<td align="center" width="33%">
+
+### NEXT
+
+🗄️
+
+**Database Systems**
+
+</td>
+
+<td align="center" width="33%">
+
+### BEYOND
+
+⚙️
+
+**Distributed Systems**
+
+</td>
+</tr>
+</table>
+
+```text id="6v7s7r"
+Networking  →  Databases  →  System Design  →  Distributed Systems  →  Infrastructure
+```
 
 ---
 
-## 🌱 Community Roots
-**Debate Champion | Student Advocate | Community Builder**   
-- Mentored 50+ students in core programming concepts  
-- Built 2K+ member LinkedIn community through weekly tech posts  
-- Shared 15+ project walkthroughs helping juniors start coding   
+# ⚛️ Selected Engineering
 
-**Class Representative @ GCUF**  
+<table>
+<tr>
 
-- **1st Place Winner 🥇** – DPS College Debate Competition 2023      
-- **Presented student proposals** to 15+ faculty members for curriculum improvements  
-- **Debating Society Lead** - Grew membership by 200% through outreach campaigns  
+<td valign="top" width="50%">
+
+## 🌐 From Packets to Product
+
+**A first-principles networking journey**
+
+From raw TCP mechanics toward production-grade infrastructure.
+
+`TCP/IP` `Sockets` `Event Loops` `HTTP/TLS` `Failure` `Observability`
+
+**Why it matters**
+
+I don't want networking knowledge to remain theoretical. Each phase is implemented, tested, measured, and documented.
+
+**Current**
+
+`TCP/IP` → `Sockets` → `Event-Driven Systems`
+
+<a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product"><strong>Explore the journey →</strong></a>
+
+</td>
+
+<td valign="top" width="50%">
+
+## 📡 MiniFTP
+
+**A custom file-transfer system**
+
+Built directly on TCP sockets with a custom application-layer protocol.
+
+`TCP` `Protocol Design` `Sessions` `Authentication` `Virtual FS` `Binary Streaming`
+
+**Why it matters**
+
+A complete client-server system built without an existing FTP implementation.
+
+<a href="https://github.com/AhmadHussainRandhawa/miniftp"><strong>Explore MiniFTP →</strong></a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top" width="50%">
+
+## ✉️ Email Systems
+
+**Email infrastructure from first principles**
+
+One connected investigation across:
+
+`DNS / MX` → `SMTP` → `TLS` → `MIME`
+
+Includes a raw-socket SMTP client, MX lookup tool, and SMTP server.
+
+<a href="https://github.com/AhmadHussainRandhawa/tiny-smtp-client"><strong>Explore the system →</strong></a>
+
+</td>
+
+<td valign="top" width="50%">
+
+## 🐦 Twitto
+
+**A deliberately small Django backend**
+
+Authentication, authorization, indexed search, image uploads, SMTP, and environment-driven configuration.
+
+`Django` `SQL` `Auth` `Search` `Backend Architecture`
+
+<a href="https://github.com/AhmadHussainRandhawa/twitto"><strong>Explore Twitto →</strong></a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# Let's Connect 🧛 
-[<img src="https://img.icons8.com/3d-fluency/30/secured-letter.png" alt="Email" style="vertical-align: middle;"/> official.ahmadrandhawa@gmail.com](mailto:official.ahmadrandhawa@gmail.com)   
-[<img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" width="26" alt="GitHub"/> GitHub Portfolio](https://github.com/AhmadHussainRandhawa)   
-[<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" width="26" alt="LinkedIn"/>  Daily Updates](https://www.linkedin.com/in/ahmad-hussain-randhawa/) 
+## 🔬 Engineering Evidence
 
+<details>
+<summary><strong>From Packets to Product — measured, not assumed</strong></summary>
 
-*"The best AI models are built by those who understand real human needs first." – Ahmad Hussain*
+<br>
 
+One experiment compared a thread-per-connection server with an event-driven server under identical load.
+
+| Concurrent Clients | Thread-per-Connection |           Event Loop |
+| -----------------: | --------------------: | -------------------: |
+|                100 |      398,113 msgs/sec |     513,491 msgs/sec |
+|                500 |      465,076 msgs/sec |     557,659 msgs/sec |
+|          **2,000** |  **218,818 msgs/sec** | **606,346 msgs/sec** |
+
+The important idea is the method:
+
+```text
+Hypothesis
+    ↓
+Implementation
+    ↓
+Controlled workload
+    ↓
+Measurement
+    ↓
+Analysis
+```
+
+<a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product"><strong>Read the methodology →</strong></a>
+
+</details>
+
+<details>
+<summary><strong>MiniFTP — what exists underneath the demo?</strong></summary>
+
+<br>
+
+```text
+TCP Connection
+      ↓
+Custom Application Protocol
+      ↓
+Request Parsing & Dispatch
+      ↓
+Authenticated Session
+      ↓
+Virtual Filesystem
+      ↓
+GET / PUT
+      ↓
+Binary-Safe Streaming
+```
+
+Current progression:
+
+`v0.1` Communication ✓
+`v0.2` Protocol ✓
+`v0.3` Sessions & Authentication ✓
+`v0.4` Virtual Filesystem ✓
+`v0.5` File Transfer ✓
+
+Next:
+
+`FTP Architecture` → `Passive Mode` → `Permissions` → `Reliability`
+
+<a href="https://github.com/AhmadHussainRandhawa/miniftp"><strong>Explore MiniFTP →</strong></a>
+
+</details>
+
+<details>
+<summary><strong>Email Systems — three repositories, one investigation</strong></summary>
+
+<br>
+
+```text
+DNS / MX
+   ↓
+SMTP
+ ┌─┴─────────────┐
+ ▼               ▼
+Client          Server
+ │
+ ├── STARTTLS
+ ├── AUTH LOGIN
+ ├── MIME
+ └── Binary Attachment
+```
+
+**Projects**
+
+* <a href="https://github.com/AhmadHussainRandhawa/tiny-smtp-client">Tiny SMTP Client</a>
+* <a href="https://github.com/AhmadHussainRandhawa/mx-lookup-tool">MX Lookup Tool</a>
+* <a href="https://github.com/AhmadHussainRandhawa/tiny-smtp-server">Tiny SMTP Server</a>
+
+The SMTP client is implemented directly over TCP in Go without `net/smtp` or a mail library.
+
+</details>
+
+---
+
+# 🕸️ Systems Deep Dive
+
+<table>
+<tr>
+<td valign="middle" width="35%" align="center">
+
+# OS
+
+### FROM FIRST PRINCIPLES
+
+**7 deep-dive chapters**
+
+`Processes`
+`Scheduling`
+`Concurrency`
+`Deadlocks`
+`Memory`
+`Virtual Memory`
+`Filesystems`
+
+</td>
+
+<td valign="middle" width="65%">
+
+### Not just notes.
+
+A handwritten, systematic exploration of the mechanisms beneath modern operating systems.
+
+The repository is built around **understanding why the mechanisms exist**, not memorizing definitions.
+
+It covers:
+
+`System Foundations` · `Process Management` · `CPU Scheduling`
+`Synchronization` · `Deadlocks` · `Memory Management` · `File Management`
+
+With detailed diagrams, cross-referencing, numerical problems, and Linux/ext4 case studies.
+
+<details>
+<summary><strong>Why this belongs here</strong></summary>
+
+<br>
+
+My software projects show what I build.
+
+This repository shows how I approach foundational technical knowledge.
+
+It represents the **study → understand → internalize** side of the same engineering philosophy.
+
+<a href="https://github.com/AhmadHussainRandhawa/os-from-first-principles"><strong>Read the deep dive →</strong></a>
+
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🗺️ How the Pieces Connect
+
+```text id="1w0c9n"
+                         SOFTWARE SYSTEMS
+                                │
+                ┌───────────────┴───────────────┐
+                │                               │
+                ▼                               ▼
+          APPLICATIONS                       SYSTEMS
+                │                               │
+             Twitto                    ┌────────┼────────┐
+                                       │        │        │
+                                       ▼        ▼        ▼
+                                      TCP      SMTP    MiniFTP
+                                       │        │        │
+                                       └────────┼────────┘
+                                                │
+                                                ▼
+                                           NETWORKING
+                                                │
+                                                ▼
+                                        DATABASE SYSTEMS
+                                                │
+                                                ▼
+                                       DISTRIBUTED SYSTEMS
+                                                │
+                                                ▼
+                                         INFRASTRUCTURE
+```
+
+The direction is deliberate:
+
+> **Learn the layer. Build at the layer. Understand what the layer is hiding. Then move deeper.**
+
+---
+
+# 🕸️ Earlier Engineering
+
+### [Alien Invasion](https://github.com/AhmadHussainRandhawa/alien-invasion)
+
+A Python/Pygame arcade shooter exploring:
+
+`Game Loops` · `Real-Time Input` · `Collision Systems` · `State Management` · `OOP`
+
+<a href="https://github.com/AhmadHussainRandhawa/alien-invasion"><strong>View project →</strong></a>
+
+---
+
+# 🛠️ What I'm Building Toward
+
+The immediate goal is deeper capability across the backend and systems stack:
+
+```text
+                 BACKEND ENGINEERING
+                         │
+                         ▼
+                    NETWORKING
+                         │
+                         ▼
+                    DATABASES
+                         │
+                         ▼
+                   SYSTEM DESIGN
+                         │
+                         ▼
+                DISTRIBUTED SYSTEMS
+                         │
+                         ▼
+              RELIABLE INFRASTRUCTURE
+```
+
+The long-term objective is simple:
+
+**Become capable of understanding, designing, and building increasingly complex systems—and eventually use that capability to solve meaningful real-world problems.**
+
+---
+
+<div align="center">
+
+## Understand the machinery. Build the system.
+
+<br>
+
+<a href="https://github.com/AhmadHussainRandhawa">
+<img src="https://img.shields.io/badge/GitHub-AhmadHussainRandhawa-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/ahmad-hussain-randhawa/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<br><br>
+
+<sub>UNDERSTAND · BUILD · MEASURE</sub>
+
+</div>
