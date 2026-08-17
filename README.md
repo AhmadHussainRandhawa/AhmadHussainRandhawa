@@ -25,8 +25,6 @@
 <a href="#systems-deep-dive">Deep Dive</a>
 ·
 <a href="#how-the-pieces-connect">Map</a>
-·
-<a href="#what-im-building-toward">Direction</a>
 
 </div>
 
