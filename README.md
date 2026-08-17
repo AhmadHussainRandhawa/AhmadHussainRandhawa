@@ -6,7 +6,7 @@
 
 **Understanding systems beneath abstractions. Building them to understand them.**
 
-<br><br>
+<br>
 
 <a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product">
 <img src="https://img.shields.io/badge/FOCUS-NETWORKING-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Current focus: Networking">
@@ -15,9 +15,7 @@
 <a href="#current-vector">
 <img src="https://img.shields.io/badge/NEXT-DATABASE%20SYSTEMS-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="Next: Database Systems">
 </a>
-
 <br><br>
-
 <a href="#technical-arsenal">Arsenal</a>
 ·
 <a href="#current-vector">Vector</a>
@@ -378,6 +376,18 @@ It represents the **study → understand → internalize** side of the same engi
 
 ---
 
+# 🕸️ Earlier Engineering
+
+### [Alien Invasion](https://github.com/AhmadHussainRandhawa/alien-invasion)
+
+A Python/Pygame arcade shooter exploring:
+
+`Game Loops` · `Real-Time Input` · `Collision Systems` · `State Management` · `OOP`
+
+<a href="https://github.com/AhmadHussainRandhawa/alien-invasion"><strong>View project →</strong></a>
+
+---
+
 <h1 id="how-the-pieces-connect">🗺️ How the Pieces Connect</h1>
 
 ```text id="1w0c9n"
@@ -408,47 +418,6 @@ It represents the **study → understand → internalize** side of the same engi
                                          INFRASTRUCTURE
 ```
 
-The direction is deliberate:
-
-> **Learn the layer. Build at the layer. Understand what the layer is hiding. Then move deeper.**
-
----
-
-# 🕸️ Earlier Engineering
-
-### [Alien Invasion](https://github.com/AhmadHussainRandhawa/alien-invasion)
-
-A Python/Pygame arcade shooter exploring:
-
-`Game Loops` · `Real-Time Input` · `Collision Systems` · `State Management` · `OOP`
-
-<a href="https://github.com/AhmadHussainRandhawa/alien-invasion"><strong>View project →</strong></a>
-
----
-
-<h1 id="what-im-building-toward">🛠️ What I'm Building Toward</h1>
-
-The immediate goal is deeper capability across the backend and systems stack:
-
-```text
-                 BACKEND ENGINEERING
-                         │
-                         ▼
-                    NETWORKING
-                         │
-                         ▼
-                    DATABASES
-                         │
-                         ▼
-                   SYSTEM DESIGN
-                         │
-                         ▼
-                DISTRIBUTED SYSTEMS
-                         │
-                         ▼
-              RELIABLE INFRASTRUCTURE
-```
-
 The long-term objective is simple:
 
 **Become capable of understanding, designing, and building increasingly complex systems—and eventually use that capability to solve meaningful real-world problems.**
@@ -469,7 +438,7 @@ The long-term objective is simple:
 <img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2">
 </a>
 
-<br><br>
+<br>
 
 <sub>UNDERSTAND · BUILD · MEASURE</sub>
 
