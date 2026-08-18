@@ -2,9 +2,9 @@
 
 # Ahmad Hussain Randhawa
 
-### Backend Engineer · Systems & Networking
+### Software Engineer · Systems Thinker · Product Builder
 
-**Understanding systems beneath abstractions. Building them to understand them.**
+**Understanding the systems beneath abstractions — then building to understand them.**
 
 <br>
 
@@ -22,7 +22,7 @@
 ·
 <a href="#selected-engineering">Work</a>
 ·
-<a href="#systems-deep-dive">Deep Dive</a>
+<a href="#systems-deep-dive">Depth</a>
 ·
 <a href="#how-the-pieces-connect">Map</a>
 
@@ -34,9 +34,10 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
 
-### Languages
+<td valign="top" width="25%">
+
+### CORE
 
 <img src="https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8" alt="Go">
 <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
@@ -45,9 +46,9 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-### Backend & Data
+### BACKEND
 
 <img src="https://img.shields.io/badge/Django-18181B?style=flat-square&logo=django&logoColor=44B78B" alt="Django">
 <img src="https://img.shields.io/badge/REST%20APIs-18181B?style=flat-square&logo=fastapi&logoColor=009688" alt="REST APIs">
@@ -56,28 +57,37 @@
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-### Systems & Infrastructure
+### SYSTEMS
 
-<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
 <img src="https://img.shields.io/badge/Networking-18181B?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Networking">
-<img src="https://img.shields.io/badge/Distributed%20Systems-18181B?style=flat-square&logo=apachekafka&logoColor=9B59B6" alt="Distributed Systems">
 <img src="https://img.shields.io/badge/Operating%20Systems-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Operating Systems">
+<img src="https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/Distributed%20Systems-18181B?style=flat-square&logo=apachekafka&logoColor=9B59B6" alt="Distributed Systems">
 
 </td>
-</tr>
-</table>
 
-<strong>Tools & additional technologies</strong>
+<td valign="top" width="25%">
 
-<p>
+### TOOLING
 
 <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub">
 <img src="https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
 <img src="https://img.shields.io/badge/Kubernetes-18181B?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes">
 <img src="https://img.shields.io/badge/Wireshark-18181B?style=flat-square&logo=wireshark&logoColor=1679A7" alt="Wireshark">
+
+</td>
+
+</tr>
+</table>
+
+<details>
+<summary><strong>Additional technologies</strong></summary>
+
+<br>
+
 <img src="https://img.shields.io/badge/Pygame-18181B?style=flat-square&logo=python&logoColor=3776AB" alt="Pygame">
 <img src="https://img.shields.io/badge/Matplotlib-18181B?style=flat-square&logo=python&logoColor=11557C" alt="Matplotlib">
 <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
@@ -85,7 +95,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
 
-</p>
+</details>
 
 ---
 
@@ -131,32 +141,50 @@ Networking  →  Databases  →  System Design  →  Distributed Systems  →  I
 
 ---
 
-<h1 id="selected-engineering">⚛️ Selected Engineering</h1>
+<h1 id="selected-engineering">⚙️ Selected Work</h1>
 
-<table>
-<tr>
-
-<td valign="top" width="50%">
+<div align="center">
 
 ## 🌐 From Packets to Product
 
-**A first-principles networking journey**
+### **A first-principles networking journey**
 
-From raw TCP mechanics toward production-grade infrastructure.
+`TCP/IP` · `Sockets` · `Event Loops` · `HTTP/TLS` · `Load` · `Failure` · `Observability`
 
-`TCP/IP` `Sockets` `Event Loops` `HTTP/TLS` `Failure` `Observability`
+**From raw networking mechanics toward production-grade infrastructure.**
 
-**Why it matters**
+<br>
 
-I don't want networking knowledge to remain theoretical. Each phase is implemented, tested, measured, and documented.
+```text id="a6u1es"
+PACKETS
+   ↓
+TCP / IP
+   ↓
+SOCKETS
+   ↓
+EVENT-DRIVEN SYSTEMS
+   ↓
+PROTOCOLS
+   ↓
+FAILURE / OBSERVABILITY
+   ↓
+INFRASTRUCTURE
+   ↓
+PRODUCT
+```
 
-**Current**
+**Current:** `TCP/IP → Sockets → Event-Driven Systems`
 
-`TCP/IP` → `Sockets` → `Event-Driven Systems`
+<br>
 
-<a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product"><strong>Explore the journey →</strong></a>
+<a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product"><strong>EXPLORE THE JOURNEY →</strong></a>
 
-</td>
+</div>
+
+<br>
+
+<table>
+<tr>
 
 <td valign="top" width="50%">
 
@@ -176,10 +204,6 @@ A complete client-server system built without an existing FTP implementation.
 
 </td>
 
-</tr>
-
-<tr>
-
 <td valign="top" width="50%">
 
 ## ✉️ Email Systems
@@ -196,6 +220,10 @@ Includes a raw-socket SMTP client, MX lookup tool, and SMTP server.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td valign="top" width="50%">
 
 ## 🐦 Twitto
@@ -210,17 +238,11 @@ Authentication, authorization, indexed search, image uploads, SMTP, and environm
 
 </td>
 
-</tr>
-</table>
+<td valign="top" width="50%">
 
----
+## 📊 Evidence over claims
 
-## 🔬 Engineering Evidence
-
-<details>
-<summary><strong>From Packets to Product — measured, not assumed</strong></summary>
-
-<br>
+**Measured systems, not assumed systems**
 
 One experiment compared a thread-per-connection server with an event-driven server under identical load.
 
@@ -230,9 +252,9 @@ One experiment compared a thread-per-connection server with an event-driven serv
 |                500 |      465,076 msgs/sec |     557,659 msgs/sec |
 |          **2,000** |  **218,818 msgs/sec** | **606,346 msgs/sec** |
 
-The important idea is the method:
+**The important idea is the method:**
 
-```text
+```text id="m4j7yv"
 Hypothesis
     ↓
 Implementation
@@ -246,71 +268,133 @@ Analysis
 
 <a href="https://github.com/AhmadHussainRandhawa/from-packets-to-product"><strong>Read the methodology →</strong></a>
 
-</details>
+</td>
+
+</tr>
+</table>
+
+---
 
 <details>
-<summary><strong>MiniFTP — what exists underneath the demo?</strong></summary>
+<summary><strong>🔬 Engineering Evidence — inspect the systems behind the work</strong></summary>
 
 <br>
 
+<details>
+<summary><strong>MiniFTP — the system underneath the demo</strong></summary>
+
 ```text
-TCP Connection
+TCP CONNECTION
       ↓
-Custom Application Protocol
+CUSTOM APPLICATION PROTOCOL
       ↓
-Request Parsing & Dispatch
+REQUEST PARSING / DISPATCH
       ↓
-Authenticated Session
+AUTHENTICATED SESSION
       ↓
-Virtual Filesystem
+SANDBOXED VIRTUAL FILESYSTEM
       ↓
 GET / PUT
       ↓
-Binary-Safe Streaming
+BINARY-SAFE STREAMING
 ```
 
 Current progression:
-
-`v0.1` Communication ✓
-`v0.2` Protocol ✓
-`v0.3` Sessions & Authentication ✓
-`v0.4` Virtual Filesystem ✓
-`v0.5` File Transfer ✓
+`v0.1` ✓ Communication
+`v0.2` ✓ Protocol
+`v0.3` ✓ Sessions & Authentication
+`v0.4` ✓ Virtual Filesystem
+`v0.5` ✓ File Transfer
 
 Next:
-
 `FTP Architecture` → `Passive Mode` → `Permissions` → `Reliability`
 
-<a href="https://github.com/AhmadHussainRandhawa/miniftp"><strong>Explore MiniFTP →</strong></a>
+**[Explore MiniFTP →](https://github.com/AhmadHussainRandhawa/miniftp)**
 
 </details>
 
 <details>
-<summary><strong>Email Systems — three repositories, one investigation</strong></summary>
-
-<br>
+<summary><strong>Email Systems — one system, three repositories</strong></summary>
 
 ```text
-DNS / MX
-   ↓
-SMTP
- ┌─┴─────────────┐
- ▼               ▼
-Client          Server
- │
- ├── STARTTLS
- ├── AUTH LOGIN
- ├── MIME
- └── Binary Attachment
+                  EMAIL SYSTEM
+
+                ┌──────────────┐
+                │   DNS / MX   │
+                │  DISCOVERY   │
+                └──────┬───────┘
+                       │
+                       ▼
+                ┌──────────────┐
+                │ SMTP SESSION │
+                └──────┬───────┘
+                       │
+             ┌─────────┴─────────┐
+             │                   │
+             ▼                   ▼
+       ┌───────────┐       ┌───────────┐
+       │   CLIENT  │◄─────►│  SERVER   │
+       └───────────┘  SMTP └───────────┘
+             │                   │
+             ├── STARTTLS        ├── 220 / 250
+             ├── AUTH LOGIN      ├── AUTH handling
+             ├── MIME            ├── MAIL / RCPT
+             └── Attachment      └── DATA / Delivery
+```
+
+Detailed SMTP conversation:
+
+```text
+CLIENT                         SERVER
+  │                              │
+  │──── EHLO ──────────────────►│
+  │◄─── 250 Capabilities ───────│
+  │                              │
+  │──── STARTTLS ───────────────►│
+  │◄─── 220 Ready ───────────────│
+  │══════ TLS HANDSHAKE ═════════│
+  │                              │
+  │──── EHLO ──────────────────►│
+  │◄─── 250 Capabilities ───────│
+  │                              │
+  │──── AUTH LOGIN ─────────────►│
+  │◄─── 334 / 235 ───────────────│
+  │                              │
+  │──── MAIL FROM ──────────────►│
+  │◄─── 250 OK ──────────────────│
+  │──── RCPT TO ────────────────►│
+  │◄─── 250 OK ──────────────────│
+  │                              │
+  │──── DATA ───────────────────►│
+  │◄─── 354 Start Mail ──────────│
+  │──── MIME + Attachment ──────►│
+  │◄─── 250 Accepted ────────────│
+  │                              │
+  │──── QUIT ───────────────────►│
+  │◄─── 221 Goodbye ─────────────│
+  │                              │
 ```
 
 **Projects**
 
-* <a href="https://github.com/AhmadHussainRandhawa/tiny-smtp-client">Tiny SMTP Client</a>
-* <a href="https://github.com/AhmadHussainRandhawa/mx-lookup-tool">MX Lookup Tool</a>
-* <a href="https://github.com/AhmadHussainRandhawa/tiny-smtp-server">Tiny SMTP Server</a>
+* [Tiny SMTP Client](https://github.com/AhmadHussainRandhawa/tiny-smtp-client)
+* [MX Lookup Tool](https://github.com/AhmadHussainRandhawa/mx-lookup-tool)
+* [Tiny SMTP Server](https://github.com/AhmadHussainRandhawa/tiny-smtp-server)
 
 The SMTP client is implemented directly over TCP in Go without `net/smtp` or a mail library.
+
+</details>
+
+<details>
+<summary><strong>Twitto — backend engineering highlights</strong></summary>
+
+`Authentication` · `Authorization` · `Indexed Search` · `Image Uploads` · `SMTP` · `Environment-driven Configuration`
+
+Ownership is enforced at the query level rather than relying only on UI restrictions.
+
+**[Explore Twitto →](https://github.com/AhmadHussainRandhawa/twitto)**
+
+</details>
 
 </details>
 
@@ -340,11 +424,9 @@ The SMTP client is implemented directly over TCP in Go without `net/smtp` or a m
 
 <td valign="middle" width="65%">
 
-### Not just notes.
+### Not a project. Not exam notes.
 
-A handwritten, systematic exploration of the mechanisms beneath modern operating systems.
-
-The repository is built around **understanding why the mechanisms exist**, not memorizing definitions.
+A systematic, handwritten exploration of the mechanisms beneath modern operating systems.
 
 It covers:
 
@@ -374,51 +456,57 @@ It represents the **study → understand → internalize** side of the same engi
 
 ---
 
-# 🕸️ Earlier Engineering
+<h1 id="how-the-pieces-connect">🗺️ Engineering Map</h1>
 
-### [Alien Invasion](https://github.com/AhmadHussainRandhawa/alien-invasion)
 
-A Python/Pygame arcade shooter exploring:
-
-`Game Loops` · `Real-Time Input` · `Collision Systems` · `State Management` · `OOP`
-
-<a href="https://github.com/AhmadHussainRandhawa/alien-invasion"><strong>View project →</strong></a>
-
----
-
-<h1 id="how-the-pieces-connect">🗺️ How the Pieces Connect</h1>
-
-```text id="1w0c9n"
+```text id="2hh5ny"
                          SOFTWARE SYSTEMS
                                 │
-                ┌───────────────┴───────────────┐
-                │                               │
-                ▼                               ▼
-          APPLICATIONS                       SYSTEMS
-                │                               │
-             Twitto                    ┌────────┼────────┐
-                                       │        │        │
-                                       ▼        ▼        ▼
-                                      TCP      SMTP    MiniFTP
-                                       │        │        │
-                                       └────────┼────────┘
-                                                │
-                                                ▼
-                                           NETWORKING
-                                                │
-                                                ▼
-                                        DATABASE SYSTEMS
-                                                │
-                                                ▼
-                                       DISTRIBUTED SYSTEMS
-                                                │
-                                                ▼
+                 ┌──────────────┴──────────────┐
+                 │                             │
+                 ▼                             ▼
+            APPLICATIONS                   SYSTEMS
+                 │                             │
+              Twitto                 ┌─────────┼─────────┐
+                                     │         │         │
+                                     ▼         ▼         ▼
+                                    TCP       SMTP     MiniFTP
+                                     │         │         │
+                                     └─────────┼─────────┘
+                                               │
+                                               ▼
+                                          NETWORKING
+                                               │
+                                               ▼
+                                      DATABASE SYSTEMS
+                                               │
+                                               ▼
+                                      DISTRIBUTED SYSTEMS
+                                               │
+                                               ▼
                                          INFRASTRUCTURE
 ```
 
 The long-term objective is simple:
 
 **Become capable of understanding, designing, and building increasingly complex systems—and eventually use that capability to solve meaningful real-world problems.**
+
+---
+
+<details>
+<summary><strong>⚙️ More engineering work</strong></summary>
+
+<br>
+
+### [Alien Invasion](https://github.com/AhmadHussainRandhawa/alien-invasion)
+
+`Python` · `Pygame` · `OOP` · `Game Loops` · `Real-Time Input` · `Collision Systems`
+
+A classic arcade shooter built as an exploration of real-time input, collision handling, game-loop architecture, and state management.
+
+**[View project →](https://github.com/AhmadHussainRandhawa/alien-invasion)**
+
+</details>
 
 ---
 
